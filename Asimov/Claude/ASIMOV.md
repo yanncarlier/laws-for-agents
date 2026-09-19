@@ -1,4 +1,4 @@
-# AGENTS.md
+# ASIMOV.md
 
 Operating instructions for AI coding agents working in this repository.
 

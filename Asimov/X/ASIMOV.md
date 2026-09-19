@@ -1,4 +1,4 @@
-# AGENTS.md
+# ASIMOV.md
 
 ## Laws of Agents
 

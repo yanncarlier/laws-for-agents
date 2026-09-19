@@ -1,4 +1,4 @@
-# AGENTS.md — Laws of Agentics
+# ASIMOV.md — Laws of Agentics
 
 > *"The Three Laws of Robotics — as applied to software agents."*
 

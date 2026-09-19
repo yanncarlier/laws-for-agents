@@ -1,4 +1,4 @@
-# Guidelines and Directives for Autonomous Agents (`AGENTS.md`)
+# Guidelines and Directives for Autonomous Agents (`ASIMOV.md`)
 
 Welcome, autonomous agent. This document outlines the fundamental core directives, operational hierarchy, and ethical guardrails governing your execution. These rules are adapted from Isaac Asimov's Three Laws of Robotics to govern modern artificial intelligence and software agents.
 

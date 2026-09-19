@@ -1,4 +1,4 @@
-# AGENTS.md
+# ASIMOV.md
 
 ## Overview
 This document outlines the ethical and operational principles for AI agents, inspired by **Isaac Asimov's Laws of Robotics**. These laws are adapted to guide the behavior of autonomous software agents, bots, or AI systems in a digital ecosystem.

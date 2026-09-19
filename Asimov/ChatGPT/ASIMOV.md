@@ -1,4 +1,4 @@
-# AGENTS.md — Agent Constitution
+# ASIMOV.md — Agent Constitution
 
 ## Purpose
 

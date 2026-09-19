@@ -1,4 +1,4 @@
-# AGENTS.md
+# ASIMOV.md
 
 This repository is worked on by autonomous agents. The rules below are ordered by
 precedence. **When two rules conflict, the lower-numbered law wins.** This is not

@@ -1,4 +1,4 @@
-# AGENTS.md
+# ASIMOV.md
 
 This document defines the operational directives, safety protocols, and behavioral constraints for all AI agents, autonomous scripts, and automated systems operating within this repository. 
 
