@@ -6,44 +6,6 @@ A comprehensive collection of agent configuration files and ethical frameworks f
 
 This repository serves as a curated collection of `AGENTS.md` and related configuration files for various AI coding assistants and autonomous agents. Each directory contains agent-specific guidelines tailored to different technologies and use cases.
 
-## Project Structure
-
-```
-laws-for-agents/
-├── README.md              # Project overview (this file)
-├── .gitignore             # Git ignore rules
-├── projects.md            # Project listing
-├── Andrej-Karpathy/       # Agent configs inspired by Andrej Karpathy's work
-│   ├── CLAUDE.md
-│   ├── CURSOR.md
-│   └── SKILL.md
-├── Asimov/                # Asimov's Laws of Robotics adaptation
-│   ├── ASIMOV.md          # Core ethical framework
-│   ├── README.md          # Detailed Asimov docs
-│   └── [AI Service]/      # Per-service agent configs
-│       ├── ChatGPT/
-│       ├── Claude/
-│       ├── DeepSeek/
-│       ├── Gemini/
-│       ├── Grok/
-│       ├── Kimi/
-│       ├── Mistral/
-│       ├── Perplexity/
-│       └── X/
-├── Bash/                  # Bash/shell agent configs
-│   └── AGENTS.md
-├── Node.js/               # Node.js agent configs
-│   └── AGENTS.md
-├── Python/                # Python agent configs
-│   └── AGENTS.md
-├── React-Next/            # React/Next.js agent configs
-│   └── AGENTS.md
-├── React-Vite-style-SPA/  # React Vite SPA agent configs
-│   └── AGENTS.md
-└── Rust/                  # Rust agent configs
-    └── AGENTS.md
-```
-
 ## Ethical Foundation
 
 The project is grounded in Asimov's Laws of Robotics, adapted for modern AI agents:
